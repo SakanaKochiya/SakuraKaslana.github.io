@@ -4,7 +4,7 @@ This is the page about Angelina-chan, a Discord bot that I am working on!
 
 Developers: [giabao06](https://github.com/giabao06) and [Sakura Kaslana](https://github.com/SakuraKaslana)
 
-![devs](docs/assets/devs.jpg)(https://github.com/giabao06)
+![devs](docs/assets/devs.jpg)
 
 
 ## Contact:
